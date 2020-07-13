@@ -13,8 +13,8 @@ Pro: Git clone to your Xcode projects folder.
 
 Screenshots
 <div>
-  <img src="https://user-images.githubusercontent.com/master/Screen%20Shot%202020-07-13%20at%2012.33.30%20AM.png" width "100
-
+  <img src="https://user-images.githubusercontent.com/40665527/87259755-dd55de80-c4ad-11ea-8705-ae3a51e52ad9.png" width="100" >
+" width "100
 </div>
 
 ## Build with
