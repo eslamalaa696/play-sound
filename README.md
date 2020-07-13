@@ -13,11 +13,11 @@ Pro: Git clone to your Xcode projects folder.
 
 Screenshots
 <div>
-<img "https://github.com/eslamalaa696/play-sound/blob/master/Screen%20Shot%202020-07-13%20at%2012.33.30%20AM.png" width= "100">
+  <img src="https://user-images.githubusercontent.com/master/Screen%20Shot%202020-07-13%20at%2012.33.30%20AM.png" width "100
 
 </div>
 
 ## Build with
 - Swift.
 - Cosmos: Show (overview , reviews , description)
-https://github.com/eslamalaa696/play-sound/blob/master/Screen%20Shot%202020-07-13%20at%2012.33.30%20AM.png
+
