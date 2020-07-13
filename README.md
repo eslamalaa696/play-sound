@@ -18,6 +18,6 @@ Pro: Git clone to your Xcode projects folder.
 </div>
 
 ## Build with
-- Swift.
-- Cosmos: Show (overview , reviews , description)
 
+- Swift.
+- SwiftyJSON: Parsing JSON.
